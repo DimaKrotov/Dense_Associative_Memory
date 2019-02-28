@@ -12,6 +12,6 @@ install jupyter notebook and numpy, scipy, matplotlib.
 run `Dense_Associative_Memory_training.ipynb` and observe the weights together with the errors on the training and the test sets.
 
 ## Author and License
-(c) 2018 Dmitry Krotov
+(c) 2016 Dmitry Krotov
 -- Apache 2.0 License
 
